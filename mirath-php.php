@@ -197,14 +197,14 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-4 pink">Hellooo</div>
-				<div class="col-lg-4 pink">hihihihii</div>
-				<div class="col-lg-4 pink">fuckkkk</div>
+				<div class="col-lg-4 pink">test</div>
+				<div class="col-lg-4 pink">test</div>
+				<div class="col-lg-4 pink">test</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-4 pink">Hellooo</div>
-				<div class="col-lg-4 pink">hihihihii</div>
-				<div class="col-lg-4 pink">fuckkkk</div>
+				<div class="col-lg-4 pink">test</div>
+				<div class="col-lg-4 pink">test</div>
+				<div class="col-lg-4 pink">test</div>
 			</div>
 
 
